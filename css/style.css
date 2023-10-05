@@ -1,0 +1,256 @@
+.header {
+    /* width: 1919.79px; */
+    width: auto;
+    height: 191.72px;
+    /* background-color: yellow; */
+    padding: 69px 162px;
+    margin-bottom: 16.28px;
+}
+
+.header-box {
+    /* background-color: red; */
+    display: flex;
+    /* width: 912.791px; */
+    justify-content: center;
+    width: auto;
+    align-items: center;
+    gap: 150px;
+
+
+}
+
+.li-box {
+    width: 564px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: right; */
+
+
+}
+
+.li-items {
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    color:#274C5B ;
+
+    display: inline-block;
+   
+    margin-right: 30px;
+
+    /* justify-content: center; */
+
+
+}
+.main-div{ 
+    /* background-color: aqua; */
+    width: 1400px;
+    height: 1901px;
+    margin: 182px auto 97px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img1-box{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.div-box{
+    /* background-color: bisque; */
+    width: 936px;
+    height: 1081px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    margin-top: 78px;
+}
+.box-1{
+    width: 936px;
+    height: 267px;
+    display: flex;
+    flex-direction: column;
+
+    gap: 28px;
+
+}
+.box-2{
+    width: 936px;
+    height: 252px;
+
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.box-3{
+    width: 936px;
+    height: 252px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+    
+    
+    
+}
+.box-4{
+    width: 936px;
+    height: 142px;
+    gap: 11px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 70px ;
+
+
+}
+.text-box1{
+    width: 537px;
+    height: 252px;
+    padding: 63px 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #F9F8F8;
+ 
+
+}
+.text-box2{
+    width: 537px;
+    height: 252px;
+    padding: 63px 45px;
+    background-color: #F9F8F8;
+    /* display: flex;
+    flex-direction: column;
+    align-items: flex-start; */
+
+    
+}
+.img-div{
+    display: flex;
+    align-items: center;
+    margin: auto ;
+    justify-content: center;
+}
+.p-styles{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.77px;
+
+}
+.h-styles{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29.3px;
+    margin-bottom: 7px;
+}
+.tittle-box1{
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58.59px;
+}
+.tittle-box4{
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 41.02px;
+}
+.footer{
+    width: 1404px;
+    height: 308px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 60px auto 61px;
+    vertical-align: top;
+    
+
+
+}
+.footer-box1{
+    width: 291px;
+    height: 308px;
+    /* margin-left: 255px; */
+
+}
+.footer-box2{
+    width: 543px;
+    height: 136.72px;
+    /* gap: 23px; */
+    align-items: center;
+}
+.footer-box3{
+    width: 205px;
+    height: 304px;
+    margin-left: 50px;
+    /* margin-right: 261px; */
+    /* gap: 24px; */
+
+}
+.footer-box2-text{
+    font-size: 18px;
+    font-weight: 400;
+    color: #525C60;
+    text-align: center;
+
+}
+.footer-box1-text {
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    gap: 33px;  
+
+
+}
+.footer-li{
+    font-size: 18px;
+    font-weight: 400;
+    line-height:49.12px;
+    color: #525C60;
+}
+.footer-box2-img{
+    margin:0  auto 33.36px;
+    display: flex;
+    justify-content: center;
+}
+.footer-box1-tittle{
+    /* margin: 0 142px 33px 0; */
+    margin:0 auto 33px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+}
+.footer-box3-tittle{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    margin-bottom: 33px;
+}
+.footer-box1-li-items{
+    margin-top: 33px ;
+    display: flex;
+    flex-direction: column;
+    
+}
+.Contact-titles{
+    font-weight: 700;
+}
+.Copyright{
+    width: 1920px;
+    height: 47px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    border-top: 1px solid black;
+
+}
+.Copyright-box{
+    width: 699px;
+    height: 30px;
+    margin: 17px 610px 23px;
+
+
+} 
